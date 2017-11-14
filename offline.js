@@ -1,0 +1,33 @@
+﻿{
+	"version": 1510437132,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/background-sheet0.png",
+		"images/pesawat-sheet0.png",
+		"images/meteor-sheet0.png",
+		"images/shadedlight-sheet0.png",
+		"images/shadedlight2-sheet0.png",
+		"images/shadedlight3-sheet0.png",
+		"images/shadedlight4-sheet0.png",
+		"images/shadedlight5-sheet0.png",
+		"images/shadedlight6-sheet0.png",
+		"images/shadedlight7-sheet0.png",
+		"images/shadedlight8-sheet0.png",
+		"images/shadedlight9-sheet0.png",
+		"images/shadedlight10-sheet0.png",
+		"images/shadedlight11-sheet0.png",
+		"images/shadedlight12-sheet0.png",
+		"images/judul-sheet0.png",
+		"media/sounddestroy.ogg",
+		"media/soundpeluru.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
